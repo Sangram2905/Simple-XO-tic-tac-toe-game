@@ -1,5 +1,5 @@
 #Jupyter notebook used with python simple "Set" function for Result & "List" for Move(Player) used the simple numbering 1 to 9 for the move.
-# Used simple "Set" function for winning combination & "List" for Player Moves
+#Used simple "Set" function for winning combination & "List" for Player Moves
 #CPU move is randome as level is Easy
 #Kindly correct the indentation if req.
 # added the photo for ref. and Jupyter notebook file.
